@@ -1,0 +1,33 @@
+body {
+
+  background:url('myemoji.png');
+  background-position:center;
+  background-repeat: no-repeat; 
+  background-color: #008000;
+  height: 900px;
+
+  
+}
+
+
+h1 {
+    font-style:60px,italic;
+	color: #00008B;
+	text-align:center;
+	padding: 30px;
+	background-color:#87CEEB;
+}
+
+p {
+
+    font-size: 2em;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	margin-top:25px;
+	font-style: italic;
+	font-family: cursive;
+	color: #800000;
+}
+
+
